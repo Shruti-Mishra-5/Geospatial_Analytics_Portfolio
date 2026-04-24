@@ -17,4 +17,4 @@
 ---
 
 ## Connect
-[LinkedIn]((https://www.linkedin.com/in/shruti-mishra-5-profile/)) · [Email](mailto:shrutimmishra.5@gmail.com)
+[LinkedIn]([url](https://www.linkedin.com/in/shruti-mishra-5-profile/)) · [Email](mailto:shrutimmishra.5@gmail.com)
