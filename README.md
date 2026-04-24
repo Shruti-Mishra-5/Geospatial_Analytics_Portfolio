@@ -1,6 +1,6 @@
 # 🌍 Geospatial Analytics Portfolio
 
-> Spatial data analysis, remote sensing, and GIS workflows
+> Projects on : Spatial data analysis, remote sensing, and GIS workflows
 > using QGIS, GeoPandas, Google Engine and Python.
 
 ---
